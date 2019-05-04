@@ -1,0 +1,3 @@
+/Users/davidsonic/CLionProjects/design_principle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/davidsonic/CLionProjects/design_principle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidsonic/CLionProjects/design_principle/cmake-build-debug/CMakeFiles/design_principle.dir
